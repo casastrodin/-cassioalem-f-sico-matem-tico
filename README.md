@@ -102,7 +102,7 @@
 
         <main>
             <section>
-                <h2>Dados Objetivos do Planeta Nove</h2>
+                <h2>Dados Objetivos do Planeta Nove 9 (x)</h2>
                 <p>O Planeta Nove (P9) é um corpo celeste hipotético no Sistema Solar exterior. Sua existência é inferida a partir de anomalias gravitacionais observadas em aglomerados de objetos transnetunianos (TNOs), especificamente os **objetos extremos do Cinturão de Kuiper (eKBOs)**. A massa estimada é de aproximadamente 5 a 10 massas terrestres, e seu raio pode ser 2 a 4 vezes o da Terra.</p>
                 <p>Sua órbita é altamente elíptica e inclinada. O **periélio** (ponto mais próximo do Sol) é estimado em cerca de 200 UA, e o **afélio** (ponto mais distante do Sol) pode chegar a 1200 UA. Isso resulta em um período orbital extremamente longo, possivelmente entre 10.000 e 20.000 anos terrestres.</p>
             </section>
