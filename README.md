@@ -193,8 +193,11 @@ Em resumo, estamos procurando o 't' (tempo) em que a distância 'D' (do Planeta 
             <p>Os satélites **Akari** (JAXA) e **IRAS** (NASA/ESA) realizaram varreduras do céu em infravermelho. Apesar de suas varreduras amplas, a sensibilidade e a resolução angular desses telescópios podem não ter sido suficientes para detectar um objeto tão frio e distante como o Planeta Nove, especialmente se ele estivesse em uma região de alta densidade estelar ou em sua fase mais distante (afélio) durante as missões.</p>
             <p>Dada a incerteza sobre sua posição atual e a necessidade de um rastreamento preciso, é provável que o P9 esteja atualmente em uma porção de sua órbita que o mantém distante da visibilidade direta, talvez na parte mais remota do seu afélio ou em um ponto que exija grandes telescópios de levantamento de céu, como o Vera C. Rubin Observatory (LSST), que opera no visível e próximo infravermelho e terá a capacidade de cobrir grandes áreas do céu com profundidade.</p>
             <p>LINK DRIVE DOWNNLOAD:ARTIGO SOBRE O PLANETA 9 (https://drive.google.com/file/d/1SuEEtaRep3V5eKNf6_jhlsQYw7OAxBT1/view?usp=drive_link) Só copiar e colar em qualquer navegador.</p> 
-			<p>BLASTOISE</p>
-			<span>TUDO SOBRE ASTRODINÂMICA - ´CASSIO ALEM LEITE</span>
+			<p>BLASTOISE</p> 
+   <a href="https://www.youtube.com/watch?v=WmE4TiKeVGM/">Visite O CANAL Ciências News</a>
+   
+			<span>TUDO SOBRE ASTRODINÂMICA</span> 
+			<span>Cássio Alem</span>
         </footer>
     </div>
 </body>
