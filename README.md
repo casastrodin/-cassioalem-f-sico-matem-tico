@@ -11,7 +11,7 @@
             margin: 20px;
             padding: 0;
             background-color: #f4f4f4;
-            color: #9d18e2;
+            color: #333333;
             position: relative;
             min-height: 100vh;
         }
