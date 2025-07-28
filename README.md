@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Planeta Nove: Hipóteses e Observações</title>
+    <title>Planeta Nove (X): Hipóteses e Observações</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -95,7 +95,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>O Hipotético Planeta Nove: Busca e Evidências - Cássio Alem</h1>
+            <h1>O Hipotético Planeta Nove: Busca e Evidências - cassio1985ex2@gmail.com</h1>
         </header>
 
         <img src="https://cassio1985ex.wordpress.com/wp-content/uploads/2025/07/cinturao-de-kuiper.jpg" alt="Ilustração do Cinturão de Kuiper" class="image-float-left">
